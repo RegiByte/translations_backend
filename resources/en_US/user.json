@@ -1,0 +1,8 @@
+{
+  "translation": {
+    "user_name": "user name"
+  },
+  "errors": {
+    "user_not_found": "user not found"
+  }
+}

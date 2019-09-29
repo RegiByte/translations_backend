@@ -1,0 +1,10 @@
+{
+    "app_name": "Mercadex en-us",
+    "errors": {
+        "app_error": "app error",
+        "user_not_found": "user not found"
+    },
+    "translation": {
+        "user_name": "user name"
+    }
+}

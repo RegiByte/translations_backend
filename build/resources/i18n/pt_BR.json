@@ -1,0 +1,16 @@
+{
+    "app_name": "mercadex pt-br",
+    "errors": {
+        "app_error": "erro no app",
+        "user_not_found": "usuario não encontrado"
+    },
+    "custom-error": {
+        "field": {
+            "error": "msg",
+            "anotherError": "msg"
+        }
+    },
+    "translation": {
+        "user_name": "nome de usuário"
+    }
+}

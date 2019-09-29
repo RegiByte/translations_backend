@@ -1,0 +1,11 @@
+{
+  "app_name": "mercadex pt-br",
+  "errors": {
+    "app_error": "erro no app"
+  },
+  "custom-error": {
+    "field": {
+      "error": "msg"
+    }
+  }
+}

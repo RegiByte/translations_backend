@@ -1,0 +1,13 @@
+{
+  "translation": {
+    "user_name": "nome de usuário"
+  },
+  "errors": {
+    "user_not_found": "usuario não encontrado"
+  },
+  "custom-error": {
+    "field": {
+      "anotherError": "msg"
+    }
+  }
+}
